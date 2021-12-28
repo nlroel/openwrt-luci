@@ -6981,3 +6981,6 @@ msgstr "« 后退"
 
 #~ msgid "Pre-emtive CRC errors (CRCP_P)"
 #~ msgstr "抢占式 CRC 错误（CRCP_P）"
+
+msgid "NAS"
+msgstr "网络存储"
