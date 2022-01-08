@@ -803,7 +803,7 @@ local params = { }
 local title = ""
 
 local m = Map("openvpn")
-m.redirect = luci.dispatcher.build_url("admin", "vpn", "openvpn")
+m.redirect = luci.dispatcher.build_url("admin", "services", "openvpn")
 m.apply_on_parse = true
 
 local p = m:section( SimpleSection )
